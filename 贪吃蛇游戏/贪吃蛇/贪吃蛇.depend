@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1779086721 source:d:\软件工程\实验四\贪吃蛇\main.cpp
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
